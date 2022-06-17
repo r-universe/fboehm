@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gemma2",
+    "oncran": true
+  },
+  {
+    "package": "qtl2pleio",
+    "oncran": true
+  }
+]
